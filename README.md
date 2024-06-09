@@ -1,4 +1,4 @@
-# Autonomous Vehicular Navigator (AVN) A
+# Autonomous Vehicular Navigator (AVN) 
 
 #include <SoftwareSerial.h>
 #include <Servo.h>
